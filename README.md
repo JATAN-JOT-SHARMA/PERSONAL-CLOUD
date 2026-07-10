@@ -173,21 +173,6 @@ For Node.js:
 npm start
 ```
 
----
-
-# 🔑 Default Login
-
-```
-Username:
-admin
-
-Password:
-admin123
-```
-
-(Change default credentials after installation)
-
----
 
 # 🔒 Security Implementation
 
