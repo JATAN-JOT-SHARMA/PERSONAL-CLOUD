@@ -165,13 +165,6 @@ For Python:
 
 ```bash
 python app.py
-```
-
-For Node.js:
-
-```bash
-npm start
-```
 
 
 # 🔒 Security Implementation
@@ -210,35 +203,6 @@ CloudVault uses:
 
 ---
 
-# 🤝 Contribution
-
-Contributions are welcome!
-
-Steps:
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push changes
-
-```bash
-git push origin feature-name
-```
-
-5. Create Pull Request
-
----
-
 # 📜 License
 
 This project is licensed under the MIT License.
@@ -251,11 +215,6 @@ This project is licensed under the MIT License.
 
 Cybersecurity & Software Development Enthusiast
 
-GitHub:
-```
-https://github.com/yourusername
-```
 
----
 
 ⭐ If you like this project, consider giving it a star!
