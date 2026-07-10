@@ -189,19 +189,6 @@ admin123
 
 ---
 
-# 📸 Screenshots
-
-Add your project screenshots here:
-
-```
-screenshots/
- ├── login.png
- ├── dashboard.png
- ├── upload.png
-```
-
----
-
 # 🔒 Security Implementation
 
 CloudVault uses:
